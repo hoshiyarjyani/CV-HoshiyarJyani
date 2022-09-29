@@ -1,0 +1,79 @@
+body {
+    width:100%;
+    font-family: sans-serif;
+}
+
+
+.myname {
+  color: gray;
+  font-weight: 800;
+  font-size: 50px;
+ 
+}
+h3{
+    font-weight: 400;
+    color: rgb(45, 43, 43);
+
+}
+h5 {
+    font-weight: 300;
+    color: rgb(45, 43, 43);
+}
+
+p{
+    font-style: italic;
+    letter-spacing: 0.7px;
+}
+
+.cast {
+    color: coral;
+    font-weight: 800;
+    
+}
+.td1 {
+    text-align: center;
+    width: 463px;
+}
+.td2 {
+        width: 464px;
+        line-height: 0.6;
+    }
+.td3{
+        width: 391px;
+        line-height: 0.7;
+}
+
+.line1 {
+    width: 85%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: coral;
+    border-image: initial;
+}
+
+.line2 {
+    width: 85%;
+    border-width: 0.1px;
+    border-color: rgb(247, 247, 247);
+    border-image: initial;
+}
+
+.td4 {
+    width: 438px;
+    text-align: center;
+    color: coral;
+    margin-top: -2rem;
+}
+
+.td6 {
+    width: 438px;
+    text-align: center;
+    color: coral;
+    margin-top: -5rem;
+    margin-left: -1.5rem;
+}
+.td5 {
+    width: 966px;
+    text-align: justify;
+
+}
